@@ -151,7 +151,15 @@ Debugging & Refactoring
 
 
 📸 Screenshots
-Screenshots of the application will be added here.
+## 📸 Screenshots
+
+<p float="left">
+  <img src="assets/screenshots/home.png" width="250" />
+  <img src="assets/screenshots/numbers.png" width="250" />
+  <img src="assets/screenshots/colors.png" width="250" />
+  <img src="assets/screenshots/family_member.png" width="250" />
+  <img src="assets/screenshots/phrases.png" width="250" />
+</p>
 
 
 
