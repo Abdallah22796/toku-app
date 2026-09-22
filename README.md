@@ -172,9 +172,9 @@ Abdallah Mohammed
 
 Flutter Developer | Dart | Cross-Platform Mobile Development
 
-GitHub: Abdallah22796
+GitHub: Abdallah22796[https://github.com/Abdallah22796]
 
-LinkedIn: Abdallah Mohammed
+LinkedIn: Abdallah Mohammed[www.linkedin.com/in/abdallah23]
 
 📌 Learning Journey
 Part of my Flutter learning journey and practical project development.
